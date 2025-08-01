@@ -1,8 +1,8 @@
 # Cyclistic Capstone 2024  
 **Fachreza Dewanto** • Creative by Experience, Analytical by Curiosity  
 
-[![HTML Report](https://img.shields.io/badge/report-HTML-blue)](reports/report.html)  
-[![Tableau Dashboard](https://img.shields.io/badge/dashboard-Tableau-lightblue)](tableau/dashboard_link.txt)  
+[![HTML Report](https://img.shields.io/badge/report-HTML-blue)](reports/report.html)  <- Check it!
+[![Tableau Dashboard](https://img.shields.io/badge/dashboard-Tableau-lightblue)](tableau/dashboard_link.txt)  <- For interactive dashboard!
 
 ## Project Overview
 This capstone project explores 4.2M rows data of hipotetical rides-share called Cyclistict (Jan–Dec 2024) to:
