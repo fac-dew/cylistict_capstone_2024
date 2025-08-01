@@ -21,7 +21,7 @@ This capstone project explores 4.2M rows data of hipotetical rides-share called 
 - **scripts/**: R Markdown files 
     - **Main script:** `scripts/analysis.Rmd`
       - **How to run:**  
-        1. Open `scripts/analysis.Rmd` in RStudio.
+        1. Open `scripts/Cyclistic User Behavior Report_GitHub.Rmd` in RStudio.
         2. Click “Knit” to generate the report.
         3. Output will appear in `reports/` as an HTML or PDF file.
     - **Required R packages:**  
