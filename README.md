@@ -2,6 +2,7 @@
 **Fachreza Dewanto** • Creative by Experience, Analytical by Curiosity  
 
 [![HTML Report](https://img.shields.io/badge/report-HTML-blue)](reports/report.html)  <- Check it!
+
 [![Tableau Dashboard](https://img.shields.io/badge/dashboard-Tableau-lightblue)](tableau/dashboard_link.txt)  <- For interactive dashboard!
 
 ## Project Overview
