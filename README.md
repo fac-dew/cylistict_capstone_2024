@@ -5,7 +5,7 @@
 [![Tableau Dashboard](https://img.shields.io/badge/dashboard-Tableau-lightblue)](tableau/dashboard_link.txt)  
 
 ## Project Overview
-This capstone projcet explores 4.2M bike-share rides (Jan–Dec 2024) to:
+This capstone project explores 4.2M rows data of hipotetical rides-share called Cyclistict (Jan–Dec 2024) to:
 - Uncover casual vs. member behavior  
 - Analyze seasonal and hourly usage patterns  
 - Estimate ride-level revenue by user and bike type  
@@ -34,20 +34,20 @@ This capstone projcet explores 4.2M bike-share rides (Jan–Dec 2024) to:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 - Pull requests and issues welcome!
 - If you have questions or improvements, open an Issue or PR.
 
 ---
 
-## 📚 License
+## License
 
 This project is licensed under the [LICENSE](LICENSE) file.
 
 ---
 
-## 🙋‍♂️ Contact
+## Contact
 
 - For questions, open an issue or contact [fac-dew](https://github.com/fac-dew).
 
