@@ -28,7 +28,7 @@ This capstone project explores 4.2M rows data of hipotetical rides-share called 
       List any R packages needed (e.g., `tidyverse`, `skimr`, `janitor`, `scales`, `patchwork`).
 
 - **reports/**: Knit HTML report 
-  - **Location:** `reports/report.html` (or `report.pdf`)
+  - **Location:** `reports/Cyclistic-User-Behavior-Report_GitHub.html` (or `reports/Cyclistic-User-Behavior-Report_GitHub.pdf`)
   - **How to view:**  
     - Open the HTML report in your browser for interactive results.
     - Download/view the PDF for a print-friendly version.
