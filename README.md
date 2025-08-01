@@ -3,7 +3,7 @@
 
 [![HTML Report](https://img.shields.io/badge/report-HTML-blue)](reports/report.html)  <- Check it!
 
-[![Tableau Dashboard](https://img.shields.io/badge/dashboard-Tableau-lightblue)]([tableau/dashboard_link.txt](https://public.tableau.com/app/profile/fachreza.dewanto/viz/Cyclist2024-Dashboard/Cyclist2024-Dashboard#1))  <- For interactive dashboard!
+[![Tableau Dashboard](https://img.shields.io/badge/dashboard-Tableau-lightblue)]((https://public.tableau.com/app/profile/fachreza.dewanto/viz/Cyclist2024-Dashboard/Cyclist2024-Dashboard#1))  <- For interactive dashboard!
 
 ## Project Overview
 This capstone project explores 4.2M rows data of hipotetical rides-share called Cyclistict (Jan–Dec 2024) to:
