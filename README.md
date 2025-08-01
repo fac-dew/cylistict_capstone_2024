@@ -1,7 +1,7 @@
 # Cyclistic Capstone 2024  
 **Fachreza Dewanto** • Creative by Experience, Analytical by Curiosity  
 
-[![HTML Report](https://img.shields.io/badge/report-HTML-blue)]([reports/Cyclistic-User-Behavior-Report_GitHub.htm](https://fac-dew.github.io/cylistict_capstone_2024/reports/Cyclistic-User-Behavior-Report_GitHub.html)l)  <- Check it!
+[![HTML Report](https://img.shields.io/badge/report-HTML-blue)](https://fac-dew.github.io/cylistict_capstone_2024/reports/Cyclistic-User-Behavior-Report_GitHub.html)  <- Check it!
 
 [![Tableau Dashboard](https://img.shields.io/badge/dashboard-Tableau-lightblue)](https://public.tableau.com/app/profile/fachreza.dewanto/viz/Cyclist2024-Dashboard/Cyclist2024-Dashboard#1)  <- Right click & new tab for the dasboard!
 
